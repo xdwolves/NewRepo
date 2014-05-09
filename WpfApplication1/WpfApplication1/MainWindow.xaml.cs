@@ -27,7 +27,7 @@ namespace WpfApplication1
 
         private void Button_Click(object sender, RoutedEventArgs e)
         {
-            MessageBox.Show("Hello Word !");
+            MessageBox.Show("你被黑了!哈哈...");
         }
     }
 }
